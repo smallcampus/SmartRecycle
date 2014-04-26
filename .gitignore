@@ -1,0 +1,11 @@
+/.metadata
+/metadata
+/com_ribbonmenu
+*.class
+*.classpath
+*.Log
+*~
+
+# Package Files #
+*.war
+*.ear/.gitignore.txt
